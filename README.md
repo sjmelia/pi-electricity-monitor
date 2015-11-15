@@ -5,7 +5,7 @@ Use an LDR to read pulses from an LED on an electricity meter, and use them to c
 ## Getting started
 - Get Raspbian up and running on your Pi.
 - `apt-get install python virtualenv`
-- install `virtualenv` as desired
+- create a `virtualenv` as desired
 - install `RPi.GPIO` - using pip; you can `pip install < requirements.txt`
 - follow the blog post to get the hardware set up
 - `python monitor.py` to get monitoring!
